@@ -1,7 +1,8 @@
 # rest-practice
-pip install fastapi
-pip install pymysql
-pip install pymysql-pool
+pip install fastapi<br>
+pip install pymysql<br>
+pip install pymysql-pool<br>
 
 
-./start
+./start<br>
+
